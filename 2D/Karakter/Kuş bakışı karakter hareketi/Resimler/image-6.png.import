@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpx34nl2y8b42"
-path="res://.godot/imported/image-6.png-4b488c1a4cc36783c994740a048e5d31.ctex"
+path="res://.godot/imported/image-6.png-1fdb5a3b8c2959a1e77eafe1a3d070f7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://godot-4-kodlari/2D/Karakter/Kuş bakışı karakter hareketi/image-6.png"
-dest_files=["res://.godot/imported/image-6.png-4b488c1a4cc36783c994740a048e5d31.ctex"]
+source_file="res://godot-4-kodlari/2D/Karakter/Kuş bakışı karakter hareketi/Resimler/image-6.png"
+dest_files=["res://.godot/imported/image-6.png-1fdb5a3b8c2959a1e77eafe1a3d070f7.ctex"]
 
 [params]
 

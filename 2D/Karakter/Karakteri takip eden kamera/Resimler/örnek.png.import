@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ca3nt3p4822qi"
-path="res://.godot/imported/örnek.png-a37f92674ef2e03e56dc537a5b9c4ebc.ctex"
+path="res://.godot/imported/örnek.png-8121aa020180800f174ab0d7c59f4a63.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://godot-4-kodlari/2D/Karakter/Karakteri takip eden kamera/örnek.png"
-dest_files=["res://.godot/imported/örnek.png-a37f92674ef2e03e56dc537a5b9c4ebc.ctex"]
+source_file="res://godot-4-kodlari/2D/Karakter/Karakteri takip eden kamera/Resimler/örnek.png"
+dest_files=["res://.godot/imported/örnek.png-8121aa020180800f174ab0d7c59f4a63.ctex"]
 
 [params]
 
