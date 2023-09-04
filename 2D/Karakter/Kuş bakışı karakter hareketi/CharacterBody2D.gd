@@ -18,4 +18,4 @@ func _process(delta):
 
 	move_and_slide()
 
-# Kontrolleri değiştirmek hakkında: kontroller.md
+# Kontrolleri değiştirmek hakkında: https://github.com/Cataphract0/godot-4-kodlari/blob/main/2D/Karakter/Ku%C5%9F%20bak%C4%B1%C5%9F%C4%B1%20karakter%20hareketi/Kontroller.md
