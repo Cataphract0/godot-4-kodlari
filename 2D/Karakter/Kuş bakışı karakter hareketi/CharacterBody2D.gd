@@ -17,3 +17,5 @@ func _process(delta):
 		velocity.y = move_toward(velocity.y, 0, HIZ)
 
 	move_and_slide()
+
+# Kontrolleri değiştirmek hakkında: kontroller.md
