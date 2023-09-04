@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ty10wqsgyqjj"
-path="res://.godot/imported/image.png-4381fb859b6983eb81e61109a6414c33.ctex"
+uid="uid://bpx34nl2y8b42"
+path="res://.godot/imported/image-6.png-4b488c1a4cc36783c994740a048e5d31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://godot-4-kodlari/2D/Karakter/Kuş bakışı karakter hareketi/image.png"
-dest_files=["res://.godot/imported/image.png-4381fb859b6983eb81e61109a6414c33.ctex"]
+source_file="res://godot-4-kodlari/2D/Karakter/Kuş bakışı karakter hareketi/image-6.png"
+dest_files=["res://.godot/imported/image-6.png-4b488c1a4cc36783c994740a048e5d31.ctex"]
 
 [params]
 
